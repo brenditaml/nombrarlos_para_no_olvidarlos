@@ -1,6 +1,6 @@
 # Nombrarlos para no olvidarlos
 
-**Integrantes:** (escribir los nombres de la pareja)
+**Integrantes:** Brenda Montes Lazaro y Valeria Rangel Granados
 
 **Repositorio:** (pegar aquí el enlace de GitHub)
 
