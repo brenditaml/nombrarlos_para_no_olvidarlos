@@ -1,3 +1,7 @@
+@font-face{font-family:'Young Serif';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/young-serif-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Libre Franklin';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/libre-franklin-latin-400-normal.woff2) format('woff2')}
+@font-face{font-family:'Libre Franklin';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/libre-franklin-latin-600-normal.woff2) format('woff2')}
+@font-face{font-family:'Libre Franklin';font-style:normal;font-weight:700;font-display:swap;src:url(fonts/libre-franklin-latin-700-normal.woff2) format('woff2')}
 :root{--tinta:#1F2A22;--hoja:#3F5B45;--vino:#7A1F3D;--tierra:#8A6A3F;--arena:#C9A66B;--bruma:#EDEFE8;--bs-body-font-family:'Libre Franklin',system-ui,sans-serif}
 body{background:var(--bruma);color:var(--tinta);font-size:1.05rem;line-height:1.65}
 h1,h2,h3,h4,.navbar-brand{font-family:'Young Serif',Georgia,serif;font-weight:400;line-height:1.15}
@@ -75,4 +79,5 @@ dt{color:var(--vino)}
 .foto:hover img{transform:scale(1.04)}
 .foto figcaption{padding:.6rem .9rem;font-size:.9rem;color:var(--tinta)}
 @media(max-width:767px){.rods{display:none}}
+
 i.bi{display:inline-block;min-width:1em;min-height:1em}
