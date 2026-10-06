@@ -75,3 +75,4 @@ dt{color:var(--vino)}
 .foto:hover img{transform:scale(1.04)}
 .foto figcaption{padding:.6rem .9rem;font-size:.9rem;color:var(--tinta)}
 @media(max-width:767px){.rods{display:none}}
+i.bi{display:inline-block;min-width:1em;min-height:1em}
